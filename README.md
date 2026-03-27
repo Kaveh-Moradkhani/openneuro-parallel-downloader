@@ -2,7 +2,7 @@
 
 A simple Bash script that downloads datasets from [OpenNeuro](https://openneuro.org) using DataLad — fast, in parallel, and with real file content (no symlinks).
 
-Built for researchers who need MRI data ready to process with tools like FreeSurfer or FastSurfer.
+Built for researchers who need MRI data ready to process with tools like FreeSurfer or SimCortexPP.
 
 ---
 
